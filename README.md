@@ -1,168 +1,149 @@
-# Sunjoy Rao - Web3 Pioneer & AI Trading Innovator 🚀
+# 👋 Hi, I'm Sunjoy Rao
 
-  > **20+ Years Building the Future of Finance** | **Web3 & Blockchain Leader** | **₹2,400+ Cr Strategic Value 
-  Creation** | **Bangalore-based, Global Impact**
+  ## 🏦 Web3 and Financial Services Innovator & Banking Infrastructure 
 
-  ## 👋 Welcome to my GitHub
+  Passionate about modernizing financial services through innovative technology solutions. Bridging the gap between
+  legacy banking systems and next-generation infrastructure.
 
-  I'm **Sunjoy Rao**, a visionary Web3 and blockchain leader with 20+ years of experience scaling startups and leading
-   engineering teams. Currently building **TradeMate** - the world's most advanced AI-powered trading platform, while
-  pioneering **HomeChance** - a revolutionary Solana-based real estate lottery DApp.
+  ### 🌟 Latest: SwiftParser-OSS Launch
+  [![SwiftParser-OSS](https://img.shields.io/github/stars/raosunjoy/swiftparser-oss?style=social)](https://github.com/
+  raosunjoy/swiftparser-oss)
+  [![NPM Downloads](https://img.shields.io/npm/dm/@gridworks-tech/swiftparser-oss)](https://www.npmjs.com/package/@gri
+  dworks-tech/swiftparser-oss)
 
-  ### 🏆 My Journey: From Enterprise to Web3 Revolution
+  Just launched **SwiftParser-OSS** - an open-source parser for SWIFT messages and banking formats, supporting
+  everything from MT103 to ISO 20022 and major core banking systems.
 
-  #### **🎯 Current Innovations**
+  ```bash
+  npm install @gridworks-tech/swiftparser-oss
 
-  ##### **TradeMate: AI-Powered Trading Revolution**
-  - **Ultra-Premium Platform**: Serving 85 billionaires with ₹5Cr+ portfolios
-  - **Revolutionary AI**: Dual AI architecture with India-specific trading intelligence
-  - **Anonymous Architecture**: Quantum-level privacy using ZK proofs for ultra-high-net-worth clients
-  - **Mass Market Impact**: 11 Indian languages, voice trading, WhatsApp-native accessibility
+  🎯 Project Highlights:
+  - 🏦 Production Ready: 176+ tests, 82.8%+ coverage, enterprise-grade quality
+  - 🌍 Comprehensive: SWIFT, ISO 20022, BaNCS, FIS, Fiserv, Temenos support
+  - 🔒 Strategic: Open-source foundation for enterprise LegacyBaaS platform
+  - 🤝 Community: Apache 2.0 license, welcoming contributors
 
-  ##### **HomeChance: Democratizing Real Estate via Web3**
-  - **Solana DApp**: Targeting $25M-$200M revenue by 2027 in $92.73B Florida market
-  - **ZK Proof Innovation**: Light Protocol & Zokrates for transparent, fair raffles
-  - **Smart Contracts**: Solidity-based lottery system with dynamic pricing
-  - **Social Impact**: 10% profits funding affordable housing (15 homes/year)
+  💼 Professional Focus Areas
 
-  ┌─────────────────────────────────────────────────────────────┐
-  │              MY INNOVATION ECOSYSTEM                        │
-  ├─────────────────────────────────────────────────────────────┤
-  │  🚀 TradeMate: AI Trading                │
-  │  🏠 HomeChance: Web3 Real Estate │
-  │  🍎 MonkeyBox: Food Tech (10K daily orders, $150K/month)   │
-  │                                                             │
-  │  🧠 20+ Years: Enterprise → Startup → Web3 → AI           │
-  │  🔒 ZK Expertise: Privacy & Transparency Innovation        │
-  │  💼 $10M+ Raised: Proven track record scaling ventures     │
-  └─────────────────────────────────────────────────────────────┘
+  🏛️ Banking Infrastructure Modernization
+  - Legacy system transformation and COBOL modernization
+  - SWIFT message processing and ISO 20022 implementation
+  - Core banking system integration (BaNCS, FIS, Temenos)
+  - Regulatory compliance and financial messaging standards
 
-  ### 💡 Innovation Highlights
+  ⛓️ Financial Technology Innovation
+  - Blockchain integration for traditional banking
+  - DeFi protocol development and traditional finance bridges
+  - Smart contract development for financial services
+  - Cryptocurrency and digital asset infrastructure
 
-  #### **🔮 Web3 & Blockchain Mastery**
-  - **ZK Proof Expertise**: Light Protocol, Zokrates for transparent systems
-  - **Smart Contract Leadership**: Solidity, Solana development for high-scale DApps
-  - **DeFi Innovation**: 65,000 TPS Solana integration, Metaplex NFTs, Solana Pay
-  - **Security First**: End-to-end SDLC with security audits and compliance
+  🛠️ Technical Expertise
+  - Banking Systems: SWIFT, ISO 20022, Core Banking platforms
+  - Languages: JavaScript/Node.js, Python, Solidity, COBOL
+  - Blockchain: Ethereum, Hyperledger, DeFi protocols
+  - Cloud: AWS, Azure, Kubernetes, Microservices
+  - Quality: Test-driven development, 100% coverage philosophy
 
-  #### **🧠 AI & Trading Intelligence**
-  - **₹2,000+ Cr Competitive Advantage**: World's best trading AI for Indian markets
-  - **Dual AI Architecture**: Universal intelligence + Ultra-premium Butler personalities
-  - **Behavioral Analytics**: 20+ years of user psychology and market understanding
-  - **Voice Innovation**: 11 Indian languages with cultural intelligence
+  🎯 Current Projects
 
-  #### **🏗️ Technical Excellence**
-  - **20+ Years Leadership**: From Wipro (100+ engineers) to Web3 startups
-  - **Enterprise Scale**: 99.9% uptime, sub-100ms performance, bank-grade security
-  - **Full-Stack Mastery**: React, Node.js, AWS, MongoDB, multi-tier architectures
-  - **Awards & Recognition**: TechSparks Winner, Microsoft BizSpark, Wipro Hall of Fame
+  🚀 LegacyBaaS Platform (In Development)
+  Enterprise banking modernization platform offering:
+  - COBOL transpilation and legacy code conversion
+  - Blockchain integration and DeFi connectivity
+  - Compliance automation (AML, KYC, sanctions)
+  - Cloud migration and microservices transformation
 
-  ### 📊 Career Achievements & Impact
+  🌟 Open Source Contributions
+  Committed to open-sourcing core financial infrastructure to accelerate industry innovation while maintaining clear
+  enterprise value propositions.
 
-  #### **🏆 Entrepreneurial Success**
-  - **$10M+ Raised**: Proven track record in VC funding and scaling
-  - **$10M Walmart Investment**: Term sheet for food tech innovation
-  - **TechSparks 2010 Winner**: Recognized by Steve Ballmer for innovation
-  - **Microsoft BizSpark**: Young Turks Award for technology leadership
+  📊 GitHub Activity
 
-  #### **💰 Value Creation Timeline**
-  Career Value Creation:
-  ├── 2003-2006: Wipro (100+ engineers, enterprise optimization)
-  ├── 2006-2015: SportingMindz (25+ engineers, IPL fantasy platform)
-  ├── 2015-Present: MonkeyBox (20+ engineers, $150K/month GMV)
-  ├── 2019-Present: HomeChance ($25M-$200M revenue target)
-  └── 2024-Present: TradeMate (₹8,000+ Cr acquisition value)
+  https://github-readme-stats.vercel.app/api?username=raosunjoy&show_icons=true&theme=dark
+  https://github-readme-stats.vercel.app/api/top-langs/?username=raosunjoy&layout=compact&theme=dark
 
-  ### 🛠️ Technology Stack & Expertise
+  🎯 2025 Vision
 
-  #### **🔥 Web3 & Blockchain**
-  Smart Contracts:  Solidity, Solana Program Library, Rust
-  ZK Proofs:        Light Protocol, Zokrates, Zero-Knowledge Systems
-  DeFi:             Metaplex NFTs, Solana Pay, Chainlink Oracles
-  Security:         Smart contract audits, KYC/AML compliance
+  - Community Building: Grow SwiftParser-OSS to 1,000+ stars and 10K+ downloads
+  - Enterprise Growth: Launch LegacyBaaS platform with major banking partnerships
+  - Industry Impact: Speak at fintech conferences and banking technology events
+  - Innovation: Continue open-sourcing financial infrastructure tools
 
-  #### **🚀 AI & Trading Technology**
-  AI/ML:            GPT-4, Claude, TensorFlow, PyTorch, Behavioral Analytics
-  Trading:          Risk Management, Algorithmic Trading, Real-time Analytics
-  Languages:        Python, TypeScript, JavaScript, Rust
-  Infrastructure:   AWS, Docker, Kubernetes, Multi-cloud Architecture
+  🤝 Let's Connect!
 
-  ### 📈 GitHub Stats & Activity
+  - 💼 LinkedIn: https://www.linkedin.com/in/sunjoy-rao-b73652372/
+  - 💼 Enterprise Inquiries: mailto:enterprise@gridworks.ai
+  - 📧 Collaboration: mailto:sunjoy@gridworks.ai
+  - 🐦 Follow: Updates on fintech innovation and open source
 
-  ![Sunjoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=raosunjoy&show_icons=true&theme=tokyoni
-  ght&count_private=true)
+  💭 Philosophy
 
-  ![Top 
-  Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raosunjoy&layout=compact&theme=tokyonight)
+  "The future of financial services lies in open, collaborative innovation. By democratizing access to banking 
+  infrastructure while creating clear enterprise value, we can accelerate the entire industry's transformation."
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raosunjoy&theme=tokyonight)
+  ---
+  🏦 Building tomorrow's financial infrastructure today.
 
-  ### 🎯 What I'm Looking For
-
-  #### **🤝 Strategic Collaborations**
-  - **Web3 Engineers**: XRP, XLM, XUMM, Solana, Ethereum, ZK proof systems, DeFi protocols
-  - **AI/ML Experts**: Trading algorithms, behavioral analytics, conversational AI
-  - **Open Source Contributors**: RegTech, DeFi standards, financial transparency
-  - **Academic Partnerships**: Research in Web3, AI, and financial inclusion
-
-  #### **💼 Join the Revolution**
-  Building the future of finance requires exceptional talent:
-  - **Blockchain Engineers**: Smart contracts, ZK proofs, DeFi protocols
-  - **AI Engineers**: Training world's best trading AI for emerging markets
-  - **Full-Stack Engineers**: Enterprise-grade Web3 and AI platforms
-  - **Product Leaders**: Multi-market expansion and user experience innovation
-
-  ### 🌐 Connect & Collaborate
-
-  #### **🤝 Let's Build the Future Together**
-  - **📧 Email**: sunjoyrao@gmail.com
-  - **📱 Phone**: +91-9845316392
-  - **💼 TradeMate**: [careers@trademate.ai](mailto:careers@trademate.ai)
-  - **🔬 Research**: [research@trademate.ai](mailto:research@trademate.ai)
-
-  ### 🎪 Current Focus: Multi-Platform Innovation
-
-  #### **🚀 Phase 1: Platform Launches** (Q3 2025)
-  - HomeChance Florida pilot ($250K-$2M revenue target)
-  - TradeMate open source ZK compliance launch
-  - Multi-platform GitHub presence and community building
-
-  #### **🧠 Phase 2: AI & Web3 Integration** (Q4 2025)
-  - TradeMate AI enhancement with blockchain settlement
-  - Cross-platform DeFi trading infrastructure
-  - Academic partnerships for Web3 + AI research
-
-  #### **🌏 Phase 3: Global Expansion** (2026)
-  - International real estate markets via HomeChance
-  - TradeMate global regulatory compliance
-  - Industry leadership in Web3 + AI convergence
+  https://github.com/raosunjoy/swiftparser-oss
 
   ---
 
-  ### 💎 Vision: Democratizing Finance Through Innovation
+  ## 📱 **Follow-up LinkedIn Content Strategy**
 
-  From enterprise optimization at Wipro to Web3 real estate democratization, from IPL fantasy platforms to AI trading
-  for billionaires - my journey spans the complete evolution of technology and finance.
+  ### **Week 2 Post: Technical Deep-dive**
+  🔧 Technical Deep-dive: Why Banking Message Parsing is Harder Than You Think
 
-  **🎯 Mission**: Make financial markets and real estate accessible to everyone
-  **🔗 Innovation**: Bridge traditional finance with Web3 and AI technologies
-  **🌍 Impact**: Create sustainable value while solving real-world problems
+  Following the SwiftParser-OSS launch, many have asked about the technical challenges we solved. Here's what makes
+  banking message parsing uniquely complex:
 
-  **🚀 Strategic Value**: ₹10,000+ Cr across multiple ventures through 20+ years of consistent innovation and
-  execution.
+  🏦 SWIFT Messages: 40+ message types, each with hundreds of optional fields
+  📊 ISO 20022: XML-based but with bank-specific implementations
+  🏛️ Legacy Formats: BaNCS, FIS, Temenos - each with proprietary structures
+  🔒 Compliance: Every field could trigger AML/KYC requirements
+
+  The result? Most banks spend millions on proprietary parsing solutions.
+
+  SwiftParser-OSS changes this game. Thoughts on open-sourcing critical financial infrastructure?
+
+  #BankingTech #TechnicalArchitecture #FinTech
+
+  ### **Week 3 Post: Industry Thought Leadership**
+  💡 The Open Source Revolution in Banking Technology
+
+  Traditional banking has been closed-source for decades. But I believe we're at an inflection point where open
+  collaboration accelerates innovation faster than proprietary development.
+
+  SwiftParser-OSS proves this thesis:
+  ✅ Community-driven development produces higher quality
+  ✅ Transparency builds trust in financial infrastructure
+  ✅ Open foundations enable faster enterprise innovation
+  ✅ Shared costs reduce barriers to entry for fintech startups
+
+  The question isn't WHETHER banking will embrace open source, but HOW FAST.
+
+  What's your take? Is your organization ready for open-source financial infrastructure?
+
+  #FinTech #Banking #Innovation #OpenSource
 
   ---
 
-  *"20+ years of turning impossible ideas into billion-dollar realities. Let's build the next one together."* 🚀
+  ## 🎯 **Profile Optimization Tips**
 
-  ⭐ Star my repositories if you find them interesting!
-  🤝 Open to collaborations in Web3, AI, and financial innovation
-  💼 Always looking for exceptional talent to join the revolution
-  🏠 Building affordable homeownership through blockchain innovation
-  🚀 Democratizing trading through AI and zero-knowledge technology
+  ### **LinkedIn Profile Enhancements:**
+  1. **Add SwiftParser-OSS to Featured section** with the GitHub link
+  2. **Update current position** to mention the project if relevant
+  3. **Add relevant skills**: SWIFT, ISO 20022, Banking Technology, Open Source
+  4. **Request recommendations** from any collaborators on the project
 
-  ---
+  ### **GitHub Profile Optimization:**
+  1. **Pin SwiftParser-OSS repository** to your profile
+  2. **Add comprehensive topics** to the repo: `swift`, `banking`, `fintech`, `parser`, `iso20022`, `mt103`,
+  `banking-technology`
+  3. **Enable Discussions** on the repository for community engagement
+  4. **Create a GitHub Project board** to show active development
 
-  **📫 Ready to innovate?** Let's connect and build something extraordinary!
-
-  **Current Location**: Singapore, Singapore  | **Building For**: Global Impact 🌍
+  ### **Cross-Platform Strategy:**
+  - **Medium article**: Technical deep-dive on banking message parsing
+  - **Dev.to post**: Getting started with SwiftParser-OSS tutorial
+  - **Twitter**: Thread summarizing the LinkedIn posts
+  - **YouTube** (if interested): Demo video of SwiftParser-OSS in action
